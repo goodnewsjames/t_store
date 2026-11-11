@@ -36,7 +36,7 @@ class TCircularImage extends StatelessWidget {
         // to light and dark mode color design
         color:
             backgroundColor ??
-            (dark ? TColors.black : TColors.white),
+            (dark ? Colors.black : TColors.white),
         borderRadius: .circular(100),
       ),
       child: Image(

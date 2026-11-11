@@ -55,7 +55,7 @@ class TBrandCard extends StatelessWidget {
                     brandTextSize: TextSizes.large,
                   ),
                   Text(
-                    '256 products with extrea columns',
+                    '256 products with extra columns',
                     overflow: .ellipsis,
                     style: Theme.of(
                       context,
